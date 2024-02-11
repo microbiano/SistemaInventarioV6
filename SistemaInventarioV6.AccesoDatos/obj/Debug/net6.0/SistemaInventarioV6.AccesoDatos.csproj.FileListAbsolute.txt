@@ -1,0 +1,17 @@
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\bin\Debug\net6.0\SistemaInventarioV6.AccesoDatos.deps.json
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\bin\Debug\net6.0\SistemaInventarioV6.AccesoDatos.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\bin\Debug\net6.0\SistemaInventarioV6.AccesoDatos.pdb
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\bin\Debug\net6.0\SistemaInventarioV6.Modelos.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\bin\Debug\net6.0\SistemaInventarioV6.Modelos.pdb
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.pdb
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\SistemaInventarioV6.AccesoDatos.csproj.AssemblyReference.cache
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\SistemaInventarioV6.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\SistemaInventarioV6.AccesoDatos.AssemblyInfoInputs.cache
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\SistemaInventarioV6.AccesoDatos.AssemblyInfo.cs
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\SistemaInventarioV6.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\SistemaInventarioV6.AccesoDatos.csproj.CopyComplete
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\SistemaInventarioV6.AccesoDatos.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\refint\SistemaInventarioV6.AccesoDatos.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\SistemaInventarioV6.AccesoDatos.pdb
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.AccesoDatos\obj\Debug\net6.0\ref\SistemaInventarioV6.AccesoDatos.dll

@@ -1,0 +1,11 @@
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.deps.json
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\bin\Debug\net6.0\SistemaInventarioV6.Utilidades.pdb
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.AssemblyInfoInputs.cache
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.AssemblyInfo.cs
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.csproj.CoreCompileInputs.cache
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\refint\SistemaInventarioV6.Utilidades.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\SistemaInventarioV6.Utilidades.pdb
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6.Utilidades\obj\Debug\net6.0\ref\SistemaInventarioV6.Utilidades.dll

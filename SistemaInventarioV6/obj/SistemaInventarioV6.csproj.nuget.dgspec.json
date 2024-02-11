@@ -4,14 +4,161 @@
     "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj": {}
   },
   "projects": {
-    "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj": {
+    "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.AccesoDatos\\SistemaInventarioV6.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj",
-        "projectName": "SistemaInventarioV6",
-        "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj",
+        "projectUniqueName": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.AccesoDatos\\SistemaInventarioV6.AccesoDatos.csproj",
+        "projectName": "SistemaInventarioV6.AccesoDatos",
+        "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.AccesoDatos\\SistemaInventarioV6.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\kimix\\.nuget\\packages\\",
-        "outputPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\obj\\",
+        "outputPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kimix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Modelos\\SistemaInventarioV6.Modelos.csproj": {
+                "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Modelos\\SistemaInventarioV6.Modelos.csproj"
+              },
+              "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj": {
+                "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Modelos\\SistemaInventarioV6.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Modelos\\SistemaInventarioV6.Modelos.csproj",
+        "projectName": "SistemaInventarioV6.Modelos",
+        "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Modelos\\SistemaInventarioV6.Modelos.csproj",
+        "packagesPath": "C:\\Users\\kimix\\.nuget\\packages\\",
+        "outputPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kimix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj": {
+                "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj",
+        "projectName": "SistemaInventarioV6.Utilidades",
+        "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\kimix\\.nuget\\packages\\",
+        "outputPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +190,75 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj",
+        "projectName": "SistemaInventarioV6",
+        "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj",
+        "packagesPath": "C:\\Users\\kimix\\.nuget\\packages\\",
+        "outputPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kimix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.AccesoDatos\\SistemaInventarioV6.AccesoDatos.csproj": {
+                "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.AccesoDatos\\SistemaInventarioV6.AccesoDatos.csproj"
+              },
+              "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Modelos\\SistemaInventarioV6.Modelos.csproj": {
+                "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Modelos\\SistemaInventarioV6.Modelos.csproj"
+              },
+              "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj": {
+                "projectPath": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6.Utilidades\\SistemaInventarioV6.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -56,6 +272,10 @@
               "target": "Package",
               "version": "[6.0.21, )"
             },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.21, )"
@@ -63,6 +283,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.21, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             }
           },
           "imports": [
