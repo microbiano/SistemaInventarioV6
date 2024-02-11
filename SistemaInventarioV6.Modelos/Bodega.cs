@@ -18,7 +18,7 @@ namespace SistemaInventarioV6.Modelos
 
         [Required(ErrorMessage = "Requerido")]
         [MaxLength(100, ErrorMessage = "{0} Caracteres")]
-        public string Descripcion { get;}
+        public string Descripcion { get; set; }
 
         [Required]
         public bool Estado { get; set; }

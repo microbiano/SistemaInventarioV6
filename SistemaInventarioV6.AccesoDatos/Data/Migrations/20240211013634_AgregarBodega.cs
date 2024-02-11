@@ -32,3 +32,6 @@ namespace SistemaInventarioV6.Data.Migrations
         }
     }
 }
+
+
+//Todo : Video 26 https://www.udemy.com/course/guia-completa-aspnet-core-mvc-v31/learn/lecture/36703448#announcements
