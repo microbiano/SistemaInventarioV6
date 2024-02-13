@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\Bodega.js",
+      "PackagePath": "staticwebassets\\js\\Bodega.js"
+    },
+    {
       "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

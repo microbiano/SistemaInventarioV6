@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZvjX4cOp87iiPyMfI7qH+n+njN7qAGVkImQCOXQuTzg=",
+  "Hash": "aNYNf/qEgkVm/mWueq2Du6FUfKnwMF88+1fMNVNHmoE=",
   "Source": "SistemaInventarioV6",
   "BasePath": "_content/SistemaInventarioV6",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\Bodega.js",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "js/Bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Bodega.js"
     },
     {
       "Identity": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",
