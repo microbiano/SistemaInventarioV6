@@ -5,12 +5,14 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace SistemaInventarioV6.Data.Migrations
 {
-    public partial class AgregarBodega : Migration
+    public partial class AgregarCategoriaDB : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
-        {            
+        {
+            
+
             migrationBuilder.CreateTable(
-                name: "Bodegas",
+                name: "Categorias",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -21,16 +23,16 @@ namespace SistemaInventarioV6.Data.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Bodegas", x => x.Id);
-                });            
+                    table.PrimaryKey("PK_Categorias", x => x.Id);
+                });
+
+            
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {            
             migrationBuilder.DropTable(
-                name: "Bodegas");
+                name: "Categorias");            
         }
     }
 }
-
-

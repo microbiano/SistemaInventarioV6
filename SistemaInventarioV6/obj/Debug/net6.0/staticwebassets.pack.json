@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\Bodega.js"
     },
     {
+      "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\Categoria.js",
+      "PackagePath": "staticwebassets\\js\\Categoria.js"
+    },
+    {
       "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
