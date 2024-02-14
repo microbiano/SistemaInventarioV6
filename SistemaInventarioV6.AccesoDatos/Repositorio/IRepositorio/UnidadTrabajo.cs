@@ -12,6 +12,7 @@ namespace SistemaInventarioV6.AccesoDatos.Repositorio.IRepositorio
         private readonly ApplicationDbContext _db;
         public IBodegaRepositorio Bodega { get; private set; }
         public ICategoriaRepositorio Categoria { get; private set; }
+        public IMarcaRepositorio Marca { get; private set; }
 
 
 
@@ -20,6 +21,7 @@ namespace SistemaInventarioV6.AccesoDatos.Repositorio.IRepositorio
             _db = db;
             Bodega=new BodegaRepositorio(_db);
             Categoria = new CategoriaRepositorio(_db);
+            Marca = new MarcaRepositorio(_db);
         }        
 
         public void Dispose()

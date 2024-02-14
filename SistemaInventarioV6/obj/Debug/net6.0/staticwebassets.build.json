@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "axBO0T5MPIy4p3rwtZ077jDy7kRT5WP4/lM/aUOWDZQ=",
+  "Hash": "MvSvtRbucWzsINYCxh2QQXJc3g9gBkJtsWYuFOkIFzw=",
   "Source": "SistemaInventarioV6",
   "BasePath": "_content/SistemaInventarioV6",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Categoria.js"
+    },
+    {
+      "Identity": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\Marca.js",
+      "SourceId": "SistemaInventarioV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventarioV6",
+      "RelativePath": "js/Marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Marca.js"
     },
     {
       "Identity": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",
