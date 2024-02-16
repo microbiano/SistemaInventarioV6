@@ -302,6 +302,7 @@ D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -348,6 +349,7 @@ D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\NuGet.Common.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\NuGet.Configuration.dll
 D:\Xochitemol\Proyects\SistemaInventarioV6\SistemaInventarioV6\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll

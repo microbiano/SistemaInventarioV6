@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\SistemaInventarioV6.bundle.scp.css"
     },
     {
+      "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\Imagenes\\Productos\\2066e2df-9647-41f8-b174-83db0f8a476e.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\2066e2df-9647-41f8-b174-83db0f8a476e.JPG"
+    },
+    {
+      "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\Imagenes\\Productos\\8e40ab07-f2ca-4b7e-930d-42667d5a6007.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\8e40ab07-f2ca-4b7e-930d-42667d5a6007.JPG"
+    },
+    {
+      "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\Imagenes\\Productos\\c71688a1-a15a-4188-ab5b-7fda1f4788d6.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\c71688a1-a15a-4188-ab5b-7fda1f4788d6.JPG"
+    },
+    {
+      "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\Imagenes\\Productos\\d355e4b9-8b45-47ec-ba5f-d799346d138c.JPG",
+      "PackagePath": "staticwebassets\\Imagenes\\Productos\\d355e4b9-8b45-47ec-ba5f-d799346d138c.JPG"
+    },
+    {
       "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -23,6 +39,10 @@
     {
       "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\Marca.js",
       "PackagePath": "staticwebassets\\js\\Marca.js"
+    },
+    {
+      "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\Producto.js",
+      "PackagePath": "staticwebassets\\js\\Producto.js"
     },
     {
       "Id": "D:\\Xochitemol\\Proyects\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",

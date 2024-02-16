@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <!--<Nullable>enable</Nullable>-->
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-SistemaInventarioV6-c5992ba3-2212-4173-b8b4-fe264e9c976d</UserSecretsId>
   </PropertyGroup>
@@ -25,6 +25,7 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="wwwroot\Imagenes\Productos\" />
   </ItemGroup>
 
 </Project>
