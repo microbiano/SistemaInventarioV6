@@ -177,3 +177,4 @@ namespace SistemaInventarioV6.Areas.Admin.Controllers
     }
 }
 
+//Todo https://www.udemy.com/course/guia-completa-aspnet-core-mvc-v31/learn/lecture/37020828#questions video 63
