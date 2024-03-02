@@ -2,6 +2,7 @@
 using SistemaInventarioV6.AccesoDatos.Repositorio.IRepositorio;
 using SistemaInventarioV6.Modelos;
 using SistemaInventarioV6.Modelos.ErrorViewModels;
+using SistemaInventarioV6.Modelos.Especificaciones;
 using System.Diagnostics;
 
 namespace SistemaInventarioV6.Areas.Inventario.Controllers
@@ -18,10 +19,52 @@ namespace SistemaInventarioV6.Areas.Inventario.Controllers
             _unidadTrabajo = unidadTrabajo;
         }
 
-        public async Task <IActionResult> Index()
+        public  IActionResult Index(int pageNumber=1, string busqueda="", string busquedaActual="")
         {
-            IEnumerable<Producto> productoLista = await _unidadTrabajo.Producto.ObtenerTodos();
-            return View(productoLista);
+            if (!String.IsNullOrEmpty(busqueda))
+            {
+                pageNumber = 1;
+            }
+            else
+            {
+                busqueda = busquedaActual;
+            }
+
+            ViewData["busquedaActual"]=busqueda;
+
+            if (pageNumber < 1) { pageNumber = 1; }
+
+            Parametros parametros = new Parametros ()
+            { 
+                PageNumber = pageNumber,
+                PageSize=50
+            };
+
+            var resultado =  _unidadTrabajo.Producto.ObtenerTodosPaginado(parametros);
+
+            if (!String.IsNullOrEmpty(busqueda))
+            {
+                resultado = _unidadTrabajo.Producto.ObtenerTodosPaginado(parametros, p => p.Descripcion.Contains(busqueda));
+            }
+
+            ViewData["TotalPaginas"] = resultado.MetaData.TotalPages;
+            ViewData["TotalRegistros"] = resultado.MetaData.TotalCount;
+            ViewData["PageSize"] = resultado.MetaData.PageSize;
+            ViewData["PageNumber"] = pageNumber;
+            ViewData["Previo"] = "disabled";
+            ViewData["Siguiente"] = "";
+
+            if (pageNumber > 1)
+            {
+                ViewData["Previo"] = "";
+            }
+
+            if (resultado.MetaData.TotalPages<= pageNumber)
+            {
+                ViewData["Siguiente"] = "disabled";
+            }
+
+            return View(resultado);
         }
 
         public IActionResult Privacy()
