@@ -1668,6 +1668,7 @@
       "SistemaInventarioV6.Modelos/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
+          "Microsoft.Extensions.Identity.Stores": "6.0.21",
           "SistemaInventarioV6.Utilidades": "1.0.0"
         },
         "runtime": {
